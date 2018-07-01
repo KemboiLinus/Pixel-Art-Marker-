@@ -1,4 +1,5 @@
 
+
 // Select size input
 
 var color, width, height;
@@ -31,3 +32,4 @@ function makeGrid() {
         }
     });
 }
+
